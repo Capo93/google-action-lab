@@ -1,6 +1,6 @@
 {
     "server": {
         "port": 3100,
-        "useNgrok": true
+        "useNgrok": false
     }
 }
